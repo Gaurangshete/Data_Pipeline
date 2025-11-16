@@ -1,4 +1,4 @@
-Task Description: Automated ETL Data Pipeline
+Automated ETL Data Pipeline
 Objective:
 Create a Python-based automated pipeline for Extract, Transform, Load (ETL) operations to preprocess data for machine learning workflows.
 Key Requirements:
